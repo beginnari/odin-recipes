@@ -9,8 +9,8 @@ Use: HTML, links, lists, images, pages, attribution
 To do: 
 
 Quotes in Readme caused by Tab? idk
-
-One recipe left!
+check if lemon recipe edited on mobile turned out ok
+sync issues between acode and github due to time sync stuff. save local j try again
 
 Iteration 4: add more recipes
 
