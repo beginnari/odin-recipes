@@ -1,18 +1,11 @@
 # odin-recipes
-<!-- comment test! --!>
-Recipes - TOP Foundations Project
+<!-- comment test! -->
+Recipes - <a href="https://github.com/TheOdinProject" target="_blank" rel="noreferrer"> a TOP Foundations project </a>
 
 First project - three recipes
 
-Use: HTML, links, lists, images, pages, attribution, anchor tags
-&lt;small&gt; tag for image captions. figcaption is for later
-To do: 
-check on desktop
-merge updated files on github with local repository on pc
+Practicing use of: HTML, links, lists, images, pages, attribution, anchor tags, comment tags
+Used &lt;small&gt; tag for image captions. 
 
-Notes to self:
- 
-Quotes in Readme caused by Tab? idk
 
-sync issues between acode and github due to time sync stuff. try again if funky.
 
