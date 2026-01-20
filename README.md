@@ -5,6 +5,7 @@ Recipes - <a href="https://github.com/TheOdinProject" target="_blank" rel="noref
 First project - three recipes
 
 Practicing use of: HTML, links, lists, images, pages, attribution, anchor tags, comment tags
+
 Used &lt;small&gt; tag for image captions. 
 
 
