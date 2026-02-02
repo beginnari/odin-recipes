@@ -1,0 +1,57 @@
+/* woohoo css!! */
+@font-face {
+    font-family: 'Comic Shanns Mono';
+    src: url('font-cs/ComicShannsMono-Regular.eot');
+    src: url('font-cs/ComicShannsMono-Regular.eot?#iefix') format('embedded-opentype'),
+        url('font-cs/ComicShannsMono-Regular.woff2') format('woff2'),
+        url('font-cs/ComicShannsMono-Regular.woff') format('woff'),
+        url('font-cs/ComicShannsMono-Regular.svg#ComicShannsMono-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@media only screen and (max-width: 767px) {
+    body {
+        font-size: 14px;
+    }
+
+}
+
+body {
+    margin-left: 4rem;
+    margin-top: 4rem;
+    background-color: lemonchiffon;
+    font-family: Georgia, sans-serif;
+    color: rgb(12, 2, 2);
+    font-size: 16px;
+}
+* {
+    box-sizing: border-box;
+    max-width: 95vw;
+}
+a {
+    display: inline;
+    color: darkslategray;
+    padding: 0.5em 0.1em;
+    background-color: transparent;
+    font-weight: bold;
+}
+h1,
+h2,
+h3,
+h4 {
+    font-family: "Comic Shanns Mono", monospace;
+    font-weight: bold;
+}
+p,
+ul,
+li {
+    width: 50rem;
+}
+img {
+    border: 0.1rem solid;
+    border-color: bisque;
+    border-radius: 0.05rem;
+    width: auto;
+
+}
